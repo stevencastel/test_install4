@@ -1,0 +1,4 @@
+[submodule "home/odoo/src/difodoo"]
+	path = home/odoo/src/difodoo
+	url = git@github.com:stevencastel/gesprim.git
+	branch = master
